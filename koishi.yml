@@ -1,32 +1,52 @@
 host: localhost
 port: 5140
 maxPort: 5149
-
 plugins:
   group:basic:
-    help:
-    rate-limit:
-    suggest:
-    locales:
-    commands:
-    ~admin:
-    ~bind:
+    help: null
+    rate-limit: null
+    suggest: null
+    ~locales: null
+    commands: null
+    admin: null
+    ~bind: null
   group:console:
     console:
       open: true
-    dataview:
-    logger:
-    insight:
+    dataview: null
+    logger: null
+    insight: null
     market:
       registry:
         endpoint: https://registry.npmmirror.com
       search:
         endpoint: https://registry.koishi.chat/index.json
-    sandbox:
-    status:
-    ~auth:
+    sandbox: null
+    status: null
+    ~auth: null
   group:adapter:
-    ~adapter-onebot:
-    ~adapter-discord:
-    ~adapter-telegram:
-    gocqhttp:
+    adapter-onebot:
+      protocol: ws
+      selfId: '168034743'
+      endpoint: ws://127.0.0.1:6700
+      token: ''
+      gocqhttp:
+        password: password1234
+        enabled: true
+    ~adapter-discord: null
+    ~adapter-telegram: null
+    gocqhttp: null
+  ~:bptkya: {}
+  echo:nff1hr: {}
+  database-memory:80mygt: {}
+  chat:gp36ur:
+    maxMessages: 10
+    whitelist:
+      - '2419269719'
+  crazy-thursday:xgor0j: {}
+  chess:8hvedd: {}
+  puppeteer:lbovyg: {}
+  respondent: {}
+  novelai:e7fix4:
+    token: >-
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InhKZnhMTjhHaDBET3lHWjZkUjB1NSIsIm5jIjoiRXU1YmdFWXlrYkxUNkZ2cXZ5VElRIiwiaWF0IjoxNjY1NjI3OTcwLCJleHAiOjE2NjgyMTk5NzB9.J5mmXjj-1zokusz_VtAEIPYWo6otOOAmMpN2AH7IX6w

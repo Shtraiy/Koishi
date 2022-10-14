@@ -1,0 +1,24 @@
+[2022-10-13 11:47:51] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-10-13 11:47:57] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-10-13 11:47:57] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-10-13 11:47:57] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-10-13 11:47:57] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-10-13 11:48:06] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=5LUEJvjO&style=simple&aid=16&uin=168034743&sid=3479724896488491629&cap_cd=SjhSEtBiP1StuMvgqLLudgS4M3QEez80hoMYDb0nraMaeXavYsdOBg**&clientype=1&apptype=2 
+[2022-10-13 11:48:36] [WARNING]: 登录失败: 当前登录存在安全风险，请使用常用设备或通过手机号登录。 
+[2022-10-13 11:49:08] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-10-13 11:49:08] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-10-13 11:49:08] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-10-13 11:49:08] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-10-13 11:49:11] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=8PZX7hAE&style=simple&aid=16&uin=168034743&sid=3999974229218396852&cap_cd=TWvdOCZaOIGVHw4ml9JrMPph3uNQj0dPEKGl6OVxcyhd1oQVFS6GWw**&clientype=1&apptype=2 
+[2022-10-13 11:49:31] [WARNING]: 获取 Ticket 时出现错误: Get "https://captcha.go-cqhttp.org/captcha/ticket?id=8PZX7hAE": EOF 
+[2022-10-13 11:50:10] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-10-13 11:50:10] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-10-13 11:50:10] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-10-13 11:50:10] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-10-13 12:18:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-13 12:18:15] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
+[2022-10-13 12:33:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-13 12:33:16] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
+[2022-10-13 13:43:43] [FATAL]: open image cache failed: 文件被其他进程占用 
+[2022-10-13 13:43:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-13 13:43:57] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
